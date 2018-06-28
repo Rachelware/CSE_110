@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Lab1
+comment0.text=\r\n\ CSE\ 110\ Lab\ \#1\r\n\ Takes\ input\ of\ 2\ integers\ and\ returns\ the\ results\ of\ adding,\ subtracting,\ multiplying,\r\n\ integer\ dividing\ and\ modulus.\r\n\ \r\n\ @author\ Rachel\ Ware\r\n\ @version\ 8.30.17\r\n\ TIME\ SPENT\:\ 13\ minutes\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

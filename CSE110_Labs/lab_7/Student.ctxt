@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Student
+comment1.params=
+comment1.target=Student()
+comment10.params=stAge
+comment10.target=void\ setAge(int)
+comment11.params=
+comment11.target=int\ getAge()
+comment2.params=stName
+comment2.target=void\ setName(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=stMajor
+comment4.target=void\ setMajor(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getMajor()
+comment6.params=stId
+comment6.target=void\ setId(int)
+comment7.params=
+comment7.target=int\ getId()
+comment8.params=stGpa
+comment8.target=void\ setGpa(double)
+comment9.params=
+comment9.target=double\ getGpa()
+numComments=12

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Lab2
+comment0.text=\r\n\ Takes\ user\ input\ and\ prints\ fullname\ with\ age,\ full\ name\ in\ uppercase,\ and\ the\ relationship\r\n\ between\ num1\ and\ num2.\r\n\r\n\ @author\ Rachel\ Ware\r\n\ @version\ 9.6.17\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

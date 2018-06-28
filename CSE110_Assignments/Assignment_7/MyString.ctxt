@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=MyString
+comment1.params=
+comment1.target=MyString()
+comment2.params=word
+comment2.target=MyString(java.lang.String)
+comment3.params=word
+comment3.target=boolean\ equals(java.lang.String)
+comment4.params=a
+comment4.target=int\ indexOf(char)
+comment5.params=a
+comment5.target=int\ indexOf(java.lang.String)
+comment6.params=str
+comment6.target=boolean\ startsWith(java.lang.String)
+comment7.params=str
+comment7.target=boolean\ endsWith(java.lang.String)
+comment8.params=str
+comment8.target=boolean\ contains(java.lang.String)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

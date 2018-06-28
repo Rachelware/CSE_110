@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=BankPatron
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ BankPatron\ here.\r\n\r\n\ @author\ Rachel\ Ware\r\n\ @version\ 10.13.17\r\n
+comment1.params=
+comment1.target=BankPatron()
+comment10.params=rate\ type
+comment10.target=boolean\ addAccount(double,\ AccountType)
+comment11.params=accNum
+comment11.target=boolean\ removeAccount(int)
+comment2.params=firstName\ lastName\ salary\ cashOnHand
+comment2.target=BankPatron(java.lang.String,\ java.lang.String,\ double,\ double)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=double\ getSalary()
+comment5.params=
+comment5.target=double\ getCashOnHand()
+comment6.params=
+comment6.target=void\ getPaycheck()
+comment7.params=accNum
+comment7.target=BankAccount\ getAccount(int)
+comment8.params=deposit\ acc
+comment8.target=boolean\ makeDeposit(double,\ BankAccount)
+comment9.params=amount\ acc
+comment9.target=boolean\ makeWithdraw(double,\ BankAccount)
+numComments=12
