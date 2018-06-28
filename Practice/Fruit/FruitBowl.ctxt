@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=FruitBowl
+comment1.params=
+comment1.target=FruitBowl()
+comment2.params=full\ type\ size\ first\ second
+comment2.target=FruitBowl(boolean,\ java.lang.String,\ int,\ Fruit,\ Fruit)
+comment3.params=
+comment3.target=Fruit\ getFirstFruit()
+numComments=4

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Entry
+comment0.text=\r\n\ Takes\ user\ input\ of\ strings\ and\ sticks\ them\ together\ in\ lines.\r\n\r\n\ @author\ Rachel\ Ware\r\n\ @version\ 8.25.17\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

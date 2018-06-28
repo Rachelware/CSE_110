@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=BattleGrid
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ BattleGrid\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=BattleGrid()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ BattleGrid\r\n
+comment2.params=input
+comment2.target=int\ createSelection(BattleShip[])
+comment2.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+comment3.params=
+comment3.target=int[][]\ createBoard()
+comment4.params=xPos\ yPos
+comment4.target=boolean\ checkHit(int,\ int)
+comment5.params=
+comment5.target=boolean\ checkFinished()
+numComments=6
